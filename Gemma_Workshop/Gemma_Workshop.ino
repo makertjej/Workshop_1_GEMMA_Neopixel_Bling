@@ -5,9 +5,16 @@
 
 #include <Adafruit_NeoPixel.h>
 
-#define PIN 0
+#define PIN 0 // assign constant PIN to the pin D0~ on the Gemma
+
+// User-defined parameters
+#define myPattern 0
+#define myColorChart 3
+#define mySpeed 2
+
 
 Adafruit_NeoPixel pixels = Adafruit_NeoPixel(16, PIN);
+
 
 // MODIFYING VARIABLES
 //
@@ -15,19 +22,19 @@ Adafruit_NeoPixel pixels = Adafruit_NeoPixel(16, PIN);
 // CHOOSE BLINKING PATTERN HERE: 0-3 - default blinking pattern is random
 //
 
-uint8_t myPattern = 0; // Current animation effect
+// uint8_t myPattern = 0; // Current animation effect
 
 // COLOR CHOICES
 // CHOOSE COLOR PALETTE HERE: 0-5 - default color chart is rainbow
 // 0: REDS-ORANGE; 1: BLUE-LILAC; 2: GREEN-YELLOW; 3: PINK-PURPLE; 4: TURQOISE; 5: RAINBOW
 
-uint8_t myColorChart = 3;
+// uint8_t myColorChart = 3;
 
 // TIMING CHOICES
 // CHOOSE A SPEED SETTING HERE
 // 0: SLOW; 1: MEDIUM; 2: FAST -- DEFAULT SETTING IS FAST
 
-uint8_t mySpeed = 2;
+// uint8_t mySpeed = 2;
 
 // UTILITY VARIABLES
 uint32_t prevTime; // Utility variable for timing
