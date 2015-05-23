@@ -1,9 +1,7 @@
-*(See below for English)*
-
 MAKERTJEJ.se’s 
 ## Workshop 1- GEMMA + NeoPixel Ring
 ***
-*(Svenska)
+*(Svenska)*
 Source kod för en workshop på Teklafestivalen, april 2015.
 
 #### Att installera på datorn:
