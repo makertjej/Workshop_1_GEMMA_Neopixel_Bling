@@ -2,6 +2,7 @@ MAKERTJEJ.se’s
 ## Workshop 1- GEMMA + NeoPixel Ring
 ***
 *(Svenska)*
+
 Source kod för en workshop på Teklafestivalen, april 2015.
 
 #### Att installera på datorn:
@@ -15,6 +16,7 @@ Glöm inte micro eller mini-USB kabel (beror på vilken version av GEMMA man har
 ***
 
 *(English)*
+
 Source code for a workshop at Teklafestivalen, April 2015.
 
 #### To install on your computer:
