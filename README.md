@@ -1,7 +1,10 @@
 *(See below for English)*
-Source kod för MAKERTJEJ.se’s 
+
+MAKERTJEJ.se’s 
 ## Workshop 1- GEMMA + NeoPixel Ring
-Skapade för en workshop på Teklafestivalen, april 2015.
+***
+*(Svenska)
+Source kod för en workshop på Teklafestivalen, april 2015.
 
 #### Att installera på datorn:
 
@@ -10,12 +13,11 @@ Skapade för en workshop på Teklafestivalen, april 2015.
   * [1.0.x](https://learn.adafruit.com/adafruit-arduino-ide-setup/arduino-1-dot-0-x-ide)
 
 Glöm inte micro eller mini-USB kabel (beror på vilken version av GEMMA man har).
-——
 
-Source code for MAKERTJEJ.se’s 
-## Workshop 1- GEMMA + NeoPixel Ring
-Skapade för en workshop på Teklafestivalen, april 2015.
-Created for a workshop at Teklafestivalen, April 2015.*
+***
+
+*(English)*
+Source code for a workshop at Teklafestivalen, April 2015.
 
 #### To install on your computer:
 
