@@ -1,6 +1,6 @@
 MAKERTJEJ.se’s 
 ## Workshop 1- GEMMA + NeoPixel Ring
-***
+
 *(Svenska)*
 
 Source kod för en workshop på Teklafestivalen, april 2015.
@@ -15,6 +15,7 @@ Source kod för en workshop på Teklafestivalen, april 2015.
 
 Glöm inte micro eller mini-USB kabel (beror på vilken version av GEMMA man har).
 
+[Läs mer] (http://www.makertjej.se/digibling/)
 ***
 
 *(English)*
@@ -30,3 +31,5 @@ Source code for a workshop at Teklafestivalen, April 2015.
 * Download the “Gemma_Workshop.ino” file and open it in Arduino. Make changes and send to your GEMMA for a new light show!
 
 Don’t forget the micro or mini-USB cable (depends which version of GEMMA you have).
+
+[Read more] (http://www.makertjej.se/digibling/)
